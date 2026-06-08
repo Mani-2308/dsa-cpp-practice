@@ -40,7 +40,7 @@ This repository contains my solutions to the **Striver A2Z DSA Sheet** implement
 
 ## 📈 Progress Tracker
 
-* [ ] Patterns
+* [X] Patterns
 * [ ] Basic Maths
 * [ ] Basic Recursion
 * [ ] Hashing
