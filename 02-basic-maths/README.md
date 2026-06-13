@@ -22,5 +22,4 @@ This folder contains solutions to basic mathematics problems from Striver's A2Z 
 * Time Complexity Optimization
 
 ## Language
-
-C++
+- C++
